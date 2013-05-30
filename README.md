@@ -1,4 +1,4 @@
-tbmux
+tb-circuitos-mux
 =====
 
 Trabalho de Circuitos MUX
